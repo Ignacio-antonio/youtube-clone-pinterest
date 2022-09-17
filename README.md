@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto feio através de um video do youtube "https://www.youtube.com/watch?v=XdqD8qi44Cg"
+Projeto feito através de um vídeo do youtube "https://www.youtube.com/watch?v=XdqD8qi44Cg"
 
 [Clique aqui para acessar](https://sharted53.github.io/youtube-clone-pinterest/)
 
